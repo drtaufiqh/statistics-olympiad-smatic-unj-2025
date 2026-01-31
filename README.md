@@ -170,19 +170,19 @@ Lampiran foto kegiatan sebagai berikut
 <table>
   <tr>
     <td align="center">
-      <img src="Dokumentasi%201.jpg" alt="Dokumentasi 1" width="300" />
+      <img src="Dokumentasi%201.jpg" alt="Foto 1" width="300" />
       <br/>
-      <strong>Dokumentasi 1</strong>
+      <strong>Foto 1</strong>
     </td>
     <td align="center">
-      <img src="Dokumentasi%202.jpg" alt="Dokumentasi 2" width="300" />
+      <img src="Dokumentasi%202.jpg" alt="Foto 2" width="300" />
       <br/>
-      <strong>Dokumentasi 2</strong>
+      <strong>Foto 2</strong>
     </td>
     <td align="center">
-      <img src="Dokumentasi%203.jpg" alt="Dokumentasi 3" width="300" />
+      <img src="Dokumentasi%203.jpg" alt="Foto 3" width="300" />
       <br/>
-      <strong>Dokumentasi 3</strong>
+      <strong>Foto 3</strong>
     </td>
   </tr>
 </table>
